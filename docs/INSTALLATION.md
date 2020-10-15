@@ -4,7 +4,7 @@ _This is assuming setup on a Linux distro_
 
 To deploy on a web server you need to have **node.js** (v6.x or above) installed.
 
-Please make sure you able to run the app using
+Please make sure you able to run the app using this help you tell about everything
 ```shell
 npm run server.generator
 ```  
